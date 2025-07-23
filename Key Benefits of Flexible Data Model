@@ -1,0 +1,67 @@
+# 🎧 GRC & Me – Episode Notes
+
+## Podcast Info
+- **Podcast Title:** GRC & Me (LogicGate)
+- **Episode Title:** The Benefits of a Flexible Data Model w/ Matt Kunkel 
+- **Date Listened:** July 23, 2025  
+- **Host / Guest(s):** *(Meghan Maneval / Matt Kunkel)*  
+- **Length:** *18 min*
+- **Release Date** May 22, 2019
+
+---
+
+## 🔑 Key Topics Discussed
+1. Importance of a flexible data model in GRC  
+2. Centralizing and normalizing data for better insights  
+3. Enabling scalability and continuous monitoring  
+
+---
+
+## 🧠 Takeaways / Lessons Learned
+- Flexible data models help adapt to changing compliance needs. A Data model is the underlying architecture that underpins any GRC program. 
+- Breaking down data silos improves visibility and risk response. Since the world we live in is constantly changing, it is important to be able to grow and expand as technology improves.
+- Flexibility means being able to put a program in place on day one, without a final version of where its going. It can change and adapt to changing requirements along the way.
+  Better modeling = better reporting, decision-making, and audit readiness.   
+
+---
+
+## 📌 RMF Process Insights
+
+| RMF Step       | Relevance from Episode Insights |
+|----------------|---------------------------------|
+| **Prepare**    | Flexibility supports common control mapping and asset inventory |
+| **Select**     | Helps align control selection to evolving frameworks |
+| **Authorize**  | Improves clarity and documentation for authorization packages |
+| **Monitor**    | Enables agile, real-time monitoring with updated data |
+
+---
+
+## 📚 Terms, Tools, & Frameworks Mentioned
+- Flexible Data Model  
+- Control Inheritance  
+- Centralized Risk Register  
+- Tools (e.g., ServiceNow GRC, RSA Archer)  
+
+---
+
+## 💬 Quotes / Memorable Points
+> “The more flexible your data is, the more agile your GRC strategy becomes.”  
+> “Your model shouldn’t just store data—it should tell a story about risk.”
+
+---
+
+## 📈 Practical Applications
+- Apply centralized risk inventory model in global GRC project  
+- Research how eMASS and other tools handle flexible data  
+- Reflect this model in updated SSP/SAR structure  
+
+---
+
+## 📥 Action Items
+- [ ] Explore eMASS data modeling capabilities  
+- [ ] Add centralized control mapping structure to documentation  
+- [ ] Watch FedVTE lessons on continuous monitoring  
+- [ ] Compare data structures in RSA Archer vs ServiceNow
+
+---
+
