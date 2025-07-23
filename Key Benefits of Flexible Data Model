@@ -58,10 +58,52 @@
 ---
 
 ## 📥 Action Items
-- [ ] Explore eMASS data modeling capabilities  
-- [ ] Add centralized control mapping structure to documentation  
-- [ ] Watch FedVTE lessons on continuous monitoring  
-- [ ] Compare data structures in RSA Archer vs ServiceNow
+- [x] Explore eMASS data modeling capabilities  
+- [x] Add centralized control mapping structure to documentation  
+- [x] Watch FedVTE lessons on continuous monitoring  
+- [x] Compare data structures in RSA Archer vs ServiceNow
 
 ---
 
+## 🔐 In an RMF Environment
+   
+Flexible Data Models can help you:
+- Categorize Systems based on dynamic asset/group
+- Select and Implement controls across multiple systems
+- Assess reusable environments (e.g., China vs US sites) from a unified platform
+
+---
+
+## 🛠 Common GRC Tools That Use Flexible Models
+- ServiveNow GRC - Relational model with dynamic control and risk mapping
+- RSA Archer - Fully confirgurable applications with linkable data objects
+- Xacta - Used for RMF workflows with flexible conrol inheritance
+- eMASS - More rigid, but newer implementations allow better integration
+
+---
+
+## 🔍 Key Concepts to Explore
+- Data Normalization - Organize data into reusable sets (control families, common threats
+- Object-Oriented Modeling - Think of systems, risks, controls, etc, as connected "objects"
+- Tags/Metadata - Support dynamic filtering, sorting, and dashboard creation
+- Schema-on-Read - You dont need to structure all data upfront; it adapts at query time
+  (raw data), and deciding how to organize them only when you're to study (query).
+- Schema-on-Read allows GRC tools to adapt without rebuilding the whole database.
+
+---
+
+## 📊 GRC Tools Comparison – Flexible Data Model Support
+
+## GRC Tools Comparison (Flexible Data Models)
+
+| Feature                   | RSA Archer            | ServiceNow GRC           | Xacta (Telos)        | eMASS (DoD)           | 
+|---------------------------|-----------------------|--------------------------|----------------------|-----------------------|
+| **Data Model**            | Highly flexible       | Flexible/custom          | Structured + RMF     | Rigid (gov use)       | 
+| **Best For**              | Custom enterprise GRC | IT-integrated GRC        | DoD RMF & FedRAMP    | DoD RMF/ATO only      | 
+| **RMF Support**           | Good (customizable)   | Strong (with plugins)    | Native RMF engine    | Native (limited UX)   | 
+| **Control Inheritance**   | Manual/scripting      | Semi-automated           | Native + visual      | Manual                | 
+| **Dashboards**            | Custom reports        | Dynamic + visual         | Risk dashboards      | Limited               | 
+| **Ease of Use**           | Medium                | High (ServiceNow users)  | Medium               | Low                   | 
+| **Automation**            | Visual workflows      | Flow Designer            | Strong workflows     | Basic stages          | 
+| **Integrations**          | Good (APIs)           | Excellent (REST API)     | Moderate             | Limited               | 
+| **Cost**                  | $$$                   | $$$                      | $$-$$$               | Free (Gov only)       | 
