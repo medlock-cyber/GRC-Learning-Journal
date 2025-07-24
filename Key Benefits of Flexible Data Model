@@ -27,12 +27,12 @@
 
 ## 📌 RMF Process Insights
 
-| RMF Step       | Relevance from Episode Insights |
-|----------------|---------------------------------|
+| RMF Step       | Relevance from Episode Insights                                 |
+|----------------|-----------------------------------------------------------------|
 | **Prepare**    | Flexibility supports common control mapping and asset inventory |
-| **Select**     | Helps align control selection to evolving frameworks |
-| **Authorize**  | Improves clarity and documentation for authorization packages |
-| **Monitor**    | Enables agile, real-time monitoring with updated data |
+| **Select**     | Helps align control selection to evolving frameworks            |
+| **Authorize**  | Improves clarity and documentation for authorization packages   |
+| **Monitor**    | Enables agile, real-time monitoring with updated data           |
 
 ---
 
@@ -83,7 +83,7 @@ Flexible Data Models can help you:
 ---
 
 ## 🔍 Key Concepts to Explore
-- Data Normalization - Organize data into reusable sets (control families, common threats
+- Data Normalization - Organize data into reusable sets (control families, common threats)
 - Object-Oriented Modeling - Think of systems, risks, controls, etc, as connected "objects"
 - Tags/Metadata - Support dynamic filtering, sorting, and dashboard creation
 - Schema-on-Read - You dont need to structure all data upfront; it adapts at query time
