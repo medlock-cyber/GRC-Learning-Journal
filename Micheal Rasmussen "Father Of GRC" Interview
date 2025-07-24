@@ -1,0 +1,149 @@
+# 🎧 GRC & Me – Episode 2: The Father of GRC
+
+## 🎙️ Episode Info
+- **Podcast Title:** GRC & Me  
+- **Episode Title:** The Father of GRC  
+- **Guest:** Michael Rasmussen (GRC 20/20)  
+- **Date Listened:** July 23, 2025  
+- **Link:** [Listen on LogicGate](https://podcast.logicgate.com/public/30/GRC-%26-Me-d0046b6b/d3a035ef)
+
+---
+
+## 🔑 Key Topics Discussed
+1. Michael Rasmussen's definition of GRC as a capability, not a tool  
+2. How governance is often overlooked in GRC programs  
+3. The importance of integrating strategy, risk, and compliance holistically  
+4. The rise of privacy as a key GRC driver due to data breaches  
+
+---
+
+## 🧠 Takeaways / Lessons Learned
+- GRC is about aligning **objectives**, **risk**, and **integrity**  
+- Tools should support a strategy—not define one  
+- Governance is the **“G” in GRC**—not just an afterthought  
+- Consumers increasingly demand better privacy governance  
+
+---
+
+## 📌 RMF Process Insights
+
+| RMF Step       | Insight from Episode                                           |
+|----------------|----------------------------------------------------------------|
+| **Prepare**    | Align risk efforts to business mission and values first        |
+| **Categorize** | Use a strategic lens when defining impact levels               |
+| **Select**     | Choose controls that support both compliance and mission needs |
+| **Implement**  | Ensure governance policies support control implementation      |
+| **Assess**     | Validate that controls are meaningful, not just in place       |
+| **Authorize**  | Link risk decisions to mission-critical objectives             |
+| **Monitor**    | Track business-aligned metrics, not just technical ones        |
+
+---
+
+## 📚 Terms & Frameworks
+- **GRC Capability Model (OCEG)**  
+- **GRC 20/20** – Rasmussen’s research firm  
+- **Data Privacy Regulations** (GDPR, CCPA)  
+- **Integrated Risk Management (IRM)**  
+
+---
+
+## 💬 Quotes to Remember
+> "GRC is a capability to reliably achieve objectives, address uncertainty, and act with integrity."  
+> "Every organization is a Starship of risk. It’s not about avoiding risk—it’s about managing the right ones." — Michael Rasmussen
+
+---
+
+## 📈 Practical Applications
+- Apply **objective-driven control selection** to SSP/SAR documentation  
+- Reframe risk assessments to consider **strategic and ethical implications**  
+- Use this mindset when configuring GRC tools like ServiceNow or Archer  
+
+---
+
+## 📥 Action Items
+- [ ] Read the **OCEG GRC Capability Model**  
+- [ ] Align GRC documentation to business objectives  
+- [ ] Watch a FedVTE module on mission/business process integration in RMF  
+
+---
+
+## 📘 OCEG GRC Capability Model – Overview
+
+The **OCEG GRC Capability Model** is a globally recognized framework designed to help organizations integrate Governance, Risk, and Compliance (GRC) into a unified, effective capability.
+
+> ✅ **Purpose:** To enable organizations to reliably achieve objectives, address uncertainty, and act with integrity.
+
+---
+
+## 🔑 Core Objectives
+
+- Align GRC activities with **organizational strategy**
+- Break down silos between risk, compliance, audit, and ethics
+- Establish a repeatable process to manage obligations and performance
+- Guide organizations toward **continuous improvement** of GRC capabilities
+
+---
+
+## 🧱 GRC Capability Components (The GRC Wheel)
+
+| Phase   | Description                                                                    |
+|---------|--------------------------------------------------------------------------------|
+| **Learn**   | Understand internal and external context: stakeholders, risks, obligations |
+| **Align**   | Set governance structures, roles, culture, and objectives                  | 
+| **Perform** | Implement controls, processes, and procedures to meet goals                |
+| **Review**  | Monitor performance and compliance; improve processes continuously         |
+
+---
+
+## 📚 Why It Matters
+
+- Promotes **integration** of risk, compliance, security, ethics, and audit  
+- Focuses on **value-driven GRC** instead of checkbox compliance  
+- Enhances alignment with frameworks like **NIST RMF, ISO 31000, COSO ERM**, etc.  
+- Helps mature your GRC program in a scalable, adaptable way
+
+---
+
+## 🔗 Additional Resources
+
+- [OCEG Red Book PDF (Free)](https://go.oceg.org/grc-capability-model-red-book)  
+- [OCEG Website](https://www.oceg.org/)  
+- [GRC Wheel Diagram](https://www.oceg.org/resources/grc-capability-model-overview/)  
+
+---
+
+## 🔐 Reflecting on Breach Events to Justify Privacy Controls
+
+## 🎯 Why It Matters
+
+Referencing recent data breaches strengthens your business case for privacy controls by:
+- Demonstrating **real-world risk relevance**
+- Supporting **justification of control implementation**
+- Showing awareness of emerging threats during **risk assessments**, **ATO packages**, or **continuous monitoring**
+
+---
+
+## 🔍 Real Breach Events to Reference (2023–2025)
+
+| Breach/Event                          | Summary                                                         | Privacy Lessons                                                                 |
+|---------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **MOVEit Transfer (2023)**            | Exploited zero-day vulnerability in file transfer software      | Justifies secure file handling (AC-17), patching (SI-2), and encryption (SC-12) |
+| **T-Mobile (2023 breach + prior)**    | Repeated PII breaches due to weak encryption and access control | Reinforces need for SC-12, AC-6, AU-2                                           |
+| **Meta (Facebook)**                   | Hefty fines for mismanagement of user consent and tracking      | Supports governance and privacy notices (PL-8, AR family controls)              |
+| **SolarWinds (supply chain breach)**  | Attack on software update process                               | Encourages supply chain vetting and privacy impact assessments                  |
+
+---
+
+## 📈 Sample GRC Justification (SAR or SSP Insert)
+
+> _“Given high-profile incidents like MOVEit and T-Mobile, where inadequate encryption and weak access controls led to significant personal data loss, 
+the implementation of privacy-enhancing controls such as SC-12, SC-28, and AC-6 is essential for risk reduction and mission assurance.”_
+
+---
+
+## 📚 Recommended Reading
+
+- [MOVEit Breach Summary – CISA](https://www.cisa.gov/news-events/alerts/2023/06/07/moveit-transfer-software-vulnerability)  
+- [NIST SP 800-53 Rev 5 Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)  
+- [OCEG GRC Capability Model](https://www.oceg.org/resources/grc-capability-model-red-book/)
+
